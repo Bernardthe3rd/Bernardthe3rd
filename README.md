@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bernardthe3rd
 - 👀 I’m interested in gadgets, movies and traveling to beautiful destinations.
-- 🌱 I’m currently learning HTML, CSS, JS and more to come!
+- 🌱 I’m currently learning HTML, CSS, JS, React, Java and Bootspring and more to come!
 - 💞️ I’m looking to collaborate on projects to become a better developer every day.
 - 📫 How to reach me through this beautiful platform or the Linkedin link on my page.
 
